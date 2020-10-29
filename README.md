@@ -1,4 +1,4 @@
-# knowledge_system
+# knowledge_system - 口腔医学多维知识系统
 
 ## Project setup
 ```

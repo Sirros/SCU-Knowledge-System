@@ -2,11 +2,15 @@
   "name": "knowledge_system",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@antv/g6": "^3.8.0",
+    "@hellowuxin/mindmap": "^2.1.4",
+    "axios": "^0.20.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
@@ -17,6 +21,7 @@
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-plugin-vuex": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "ant-design-vue": "^1.6.5",
     "vue-template-compiler": "^2.6.11"
   },
   "browserslist": [
