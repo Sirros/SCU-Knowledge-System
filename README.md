@@ -1,4 +1,4 @@
-# knowledge_system - 口腔医学多维知识系统
+# knowledge_system - 口腔医学多维知识系统（大创项目）
 
 ## 安装依赖
 ```
